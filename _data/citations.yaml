@@ -12,7 +12,7 @@
   orcid: 0000-0003-4828-8413
   plugin: sources.py
   file: sources.yaml
-  type: review
+  type: paper
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/194000/194751/large/JCI194751.f1.jpg
 - id: doi:10.1172/jci.insight.174825
   title: Glucose-dependent insulinotropic polypeptide receptor signaling alleviates
