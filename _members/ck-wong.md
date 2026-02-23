@@ -1,5 +1,5 @@
 ---
-name: Chi Kin (CK) Wong
+name: Chi Kin (CK) Wong, PhD
 image: images/ckwong_profile.jpg
 role: principal-investigator
 affiliation: MRC Laboratory of Medical Science
