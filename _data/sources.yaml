@@ -1,3 +1,17 @@
+- id: doi:10.1172/JCI194751
+  type: review
+  date: 2025-11-3
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/194000/194751/large/JCI194751.f1.jpg
+
+- id: doi:10.1016/j.cmet.2022.08.003
+  type: paper
+  date: 2025-9-2
+
+- id: doi:10.1016/j.cmet.2023.11.009
+  type: paper
+  date: 2024-1-2
+  image: https://www.cell.com/cms/10.1016/j.cmet.2023.11.009/asset/e4dd3f5d-0821-4141-b527-43d1ab85270e/main.assets/fx1_lrg.jpg
+
 - id: doi:10.1016/j.cmet.2022.08.003
   type: paper
   date: 2022-8-25
