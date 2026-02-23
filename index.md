@@ -3,9 +3,7 @@
 
 # ckwonglab's Website
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
+Therapies based on gut hormones such as GLP-1 have transformed the treatment of metabolic disease, yet their interactions with the immune system remain incompletely understood. Our group studies how endocrine signals, including metabolic peptides, control inflammation.
 
 ## Highlights
 
