@@ -13,6 +13,12 @@ We investigate how endocrine signaling governs the inflammatory response. By com
 
 ## Highlighted
 
+{% include citation.html lookup="doi:10.1172/JCI194751" style="rich" %}
+
+{% include citation.html lookup="doi:10.1016/j.cmet.2022.08.003" style="rich" %}
+
+{% include citation.html lookup="doi:10.1016/j.cmet.2023.11.009" style="rich" %}
+
 {% include citation.html lookup="doi:10.1016/j.cmet.2022.08.003" style="rich" %}
 
 {% include section.html %}
