@@ -5,6 +5,6 @@
 
   # ckwonglab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ckwonglab.github.io/ckwong-lab](https://ckwonglab.github.io/ckwong-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
