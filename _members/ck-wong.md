@@ -1,11 +1,11 @@
 ---
 name: Chi Kin (CK) Wong
-image: images/photo.jpg
+image: images/ckwong_profile.jpg
 role: principal-investigator
 affiliation: MRC Laboratory of Medical Science
 aliases:
   - C.K. Wong
-  - CK Smith
+  - CK Wong
 links:
   home-page: https://ckwonglab.github.io
   orcid: 0000-0003-4828-8413
