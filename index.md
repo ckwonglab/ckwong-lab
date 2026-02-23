@@ -5,7 +5,6 @@
 
 Therapies based on gut hormones such as GLP-1 have transformed the treatment of metabolic disease, yet their interactions with the immune system remain incompletely understood. Our group studies how endocrine signals, including metabolic peptides, control inflammation.
 
-## Highlights
 
 {% capture text %}
 
@@ -26,7 +25,7 @@ We investigate how endocrine signaling governs the inflammatory response. By com
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
