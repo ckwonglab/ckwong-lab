@@ -58,20 +58,20 @@ Latest research and primary publications from the Wong lab.
 Meet the amazing scientists that translate gut hormone biology into new therapeutic insights.
 
 {%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-{% endcapture %}
-
-{%
   include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
 %}
