@@ -1,32 +1,22 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-We investigate how endocrine signaling governs the inflammatory response. By combining _in vivo_, _in vitro_, and _in silico_ methodologies, we will identify novel therapeutic pathways to treat tissue and systemic inflammation and associated diseases.
+Our previous work establishes that GLP-1 produces anti-inflammatory effects via both direct and indirect mechanisms. These findings form the foundation for our ongoing investigations into how engaging receptors of different gut hormones and related peptides can produce therapeutically relevant anti-inflammatory effects to improve immunometabolic health.
 
 {% include section.html %}
 
-## Highlighted
+## Selected Publications
 
 {% include citation.html lookup="doi:10.1172/JCI194751" style="rich" %}
 
-{% include citation.html lookup="doi:10.1016/j.cmet.2022.08.003" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.cmet.2025.06.012" style="rich" %}
 
 {% include citation.html lookup="doi:10.1016/j.cmet.2023.11.009" style="rich" %}
 
 {% include citation.html lookup="doi:10.1016/j.cmet.2022.08.003" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
