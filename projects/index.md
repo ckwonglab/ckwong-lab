@@ -15,6 +15,6 @@ Our previous work establishes that GLP-1 produces anti-inflammatory effects via 
 
 ## Current Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'A'" %}
 
 {% include section.html %}
