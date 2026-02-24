@@ -3,7 +3,7 @@
 
 # The Wong Lab - Endocrine Signalling in Inflammation
 
-Gut hormones such as GLP-1 have revolutionized how we treat metabolic disease, but we are only beginning to understand how they reduce inflammation by signalling to different organs. We investigate the physiological, cellular, and molecular pathways that allow these endocrine signals to control tissue and systemic inflammation and immune responses.
+Gut hormones such as GLP-1 have revolutionized how we treat metabolic disease, but we are only beginning to understand how they signal to different organs to reduce inflammation. We investigate the physiological, cellular, and molecular pathways that allow these endocrine signals to control tissue and systemic inflammation and immune responses.
 
 {% capture text %}
 
@@ -73,5 +73,7 @@ Meet the amazing scientists that translate gut hormone biology into new therapeu
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true 
+  style="bare" 
   text=text
 %}
