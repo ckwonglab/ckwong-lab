@@ -18,8 +18,8 @@ To be updated
 {%
   include button.html
   type="phone"
-  text="TBC"
-  link="TBC"
+  text="Coming soon"
+  link="Coming soon"
 %}
 {%
   include button.html
@@ -35,7 +35,7 @@ To be updated
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="To be updated"
+  caption="Coming soon"
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ To be updated
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="To be updated"
+  caption="Coming soon"
 %}
 
 {% endcapture %}
