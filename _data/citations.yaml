@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.molmet.2025.102311
+  title: Loss of GLP-2R signaling in Glp2r mice increases the long-term severity of
+    graft versus host disease
+  authors:
+  - Bernardo Yusta
+  - Chi Kin Wong
+  - Dianne Matthews
+  - Jacqueline A. Koehler
+  - Laurie L. Baggio
+  - Daniel J. Drucker
+  publisher: Molecular Metabolism
+  date: '2026-01-01'
+  link: https://doi.org/hbqhq9
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1172/JCI194751
   title: "Antiinflammatory actions of glucagon-like peptide-1\u2013based therapies\
     \ beyond metabolic benefits"
@@ -14,6 +30,40 @@
   file: sources.yaml
   type: paper
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/194000/194751/large/JCI194751.f1.jpg
+- id: doi:10.1016/j.molmet.2025.102235
+  title: GLP-1R signaling does not modify the severity of experimental graft versus
+    host disease
+  authors:
+  - Bernardo Yusta
+  - Chi Kin Wong
+  - Dianne Matthews
+  - Jacqueline A. Koehler
+  - Laurie L. Baggio
+  - KW Annie Bang
+  - Daniel J. Drucker
+  publisher: Molecular Metabolism
+  date: '2025-10-01'
+  link: https://doi.org/hbqhrb
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmet.2025.06.012
+  title: Reassessment of antibody-based detection of the murine T cell GLP-1 receptor
+  authors:
+  - Chi Kin Wong
+  - Bernardo Yusta
+  - Jason C.L. Tong
+  - Johannes Broichhagen
+  - David J. Hodson
+  - Daniel J. Drucker
+  publisher: Cell Metabolism
+  date: '2025-09-02'
+  link: https://doi.org/g966w3
+  orcid: 0000-0003-4828-8413
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413125003250-gr1.jpg
 - id: doi:10.1172/jci.insight.174825
   title: Glucose-dependent insulinotropic polypeptide receptor signaling alleviates
     gut inflammation in mice
@@ -34,6 +84,25 @@
   publisher: JCI Insight
   date: '2024-12-26'
   link: https://doi.org/hbqdcj
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molmet.2024.102019
+  title: The GLP-1 medicines semaglutide and tirzepatide do not alter disease-related
+    pathology, behaviour or cognitive function in 5XFAD and APP/PS1 mice
+  authors:
+  - Leticia Forny Germano
+  - Jacqueline A. Koehler
+  - Laurie L. Baggio
+  - Fiona Cui
+  - Chi Kin Wong
+  - Nikolaj Rittig
+  - Xiemin Cao
+  - Dianne Matthews
+  - Daniel J. Drucker
+  publisher: Molecular Metabolism
+  date: '2024-11-01'
+  link: https://doi.org/hbqhrc
   orcid: 0000-0003-4828-8413
   plugin: orcid.py
   file: orcid.yaml
@@ -71,6 +140,33 @@
   file: sources.yaml
   type: paper
   image: https://www.cell.com/cms/10.1016/j.cmet.2023.11.009/asset/e4dd3f5d-0821-4141-b527-43d1ab85270e/main.assets/fx1_lrg.jpg
+- id: doi:10.1016/j.devcel.2023.02.009
+  title: "Activation of \u03B2-catenin in mesenchymal progenitors leads to muscle\
+    \ mass loss"
+  authors:
+  - Nasim Kajabadi
+  - Marcela Low
+  - Erik Jacques
+  - Heta Lad
+  - Lin Wei Tung
+  - Farshad Babaeijandaghi
+  - Daniel Gamu
+  - Diego Zelada
+  - Chi Kin Wong
+  - Chihkai Chang
+  - Lin Yi
+  - Michael N. Wosczyna
+  - Thomas A. Rando
+  - "Juan Pablo Henr\xEDquez"
+  - William T. Gibson
+  - Penney M. Gilbert
+  - Fabio M.V. Rossi
+  publisher: Developmental Cell
+  date: '2023-03-01'
+  link: https://doi.org/hbqhrd
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.molmet.2022.101641
   title: Glucagon-like Peptide-1 receptor Tie2+ cells are essential for the cardioprotective
     actions of liraglutide in mice with experimental myocardial infarction
@@ -342,6 +438,17 @@
   orcid: 0000-0003-4828-8413
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/cge.12353
+  title: "Novel mutations in <i><scp>PCYT1A</scp></i> are responsible for spondylometaphyseal\
+    \ dysplasia with cone\u2010rod dystrophy"
+  authors:
+  - C.K. Wong
+  publisher: Clinical Genetics
+  date: '2014-02-24'
+  link: https://doi.org/hbqhrg
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:22615319
   title: Molecular characterization of the 2011 Hong Kong scarlet fever outbreak.
   authors:
@@ -376,29 +483,3 @@
   orcid: 0000-0003-4828-8413
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5353/th_b4833423
-  title: The role of prostaglandin E2 receptor EP4 subtype in energy balance and obesity
-  authors:
-  - Chi-kin Wong
-  publisher: The University of Hong Kong Libraries
-  date: ''
-  link: https://doi.org/hbqdct
-  orcid: 0000-0003-4828-8413
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cmet.2025.06.012
-  title: Reassessment of antibody-based detection of the murine T cell GLP-1 receptor
-  authors:
-  - Chi Kin Wong
-  - Bernardo Yusta
-  - Jason C.L. Tong
-  - Johannes Broichhagen
-  - David J. Hodson
-  - Daniel J. Drucker
-  publisher: Cell Metabolism
-  date: '2025-09-02'
-  link: https://doi.org/g966w3
-  type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413125003250-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
