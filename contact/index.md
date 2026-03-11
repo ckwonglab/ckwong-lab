@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-To be updated
-
 {%
   include button.html
   type="email"
