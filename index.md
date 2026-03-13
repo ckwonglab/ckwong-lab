@@ -3,7 +3,7 @@
 
 # The Wong Lab - Endocrine Signalling in Inflammation
 
-Gut hormone therapies based on GLP-1 have revolutionized metabolic disease treatment, but how they regulate inflammation and immune responses remains poorly understood. Our group maps how gut hormones act across multiple organs to manage inflammation, aiming to leverage this crosstalk to develop better therapies for chronic diseases.
+Gut hormone therapies based on GLP-1 have transformed how we treat metabolic diseases. However, we still do not fully understand how these hormones signal the immune system to control inflammation. Our group investigates their action across the gut, brain, and immune system, translating them into better therapies for chronic diseases.
 
 {% capture text %}
 
